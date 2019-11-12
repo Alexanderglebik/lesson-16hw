@@ -305,7 +305,7 @@ header {
     color:#ffffff;
 }
  
-                /* Экран для 768px and 1024px */
+        /* Экран для 768px and 1024px */
 
 @media screen and (max-width: 1024px) {
     header {
